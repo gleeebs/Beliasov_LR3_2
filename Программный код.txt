@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 using namespace std;
 /**
 @file      Sourse1.cpp
@@ -35,7 +35,7 @@ int VvestiB() {
 /** Находится и выводится сумма 2 целых чисел A и B
 \param x число А
 \param y число B
-\return A+B
+\return A+B 
 */
 int sum(int x, int y) {
 	return x + y;
